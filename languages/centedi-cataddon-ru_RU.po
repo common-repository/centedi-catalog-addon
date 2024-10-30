@@ -1,0 +1,371 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CentEDI Catalog Extension\n"
+"POT-Creation-Date: 2020-08-20 12:45+0300\n"
+"PO-Revision-Date: 2022-02-28 12:01+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: centedi-cataddon-main.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: centedi-cataddon-brands-widget.php:13 centedi-cataddon-brands-widget.php:15
+#: centedi-cataddon-brands-widget.php:43
+msgid "CentEDI Brands Slider"
+msgstr ""
+
+#: centedi-cataddon-core.php:31
+msgid "You have successfully registered!"
+msgstr "Вы успешно зарегистрировались!"
+
+#: centedi-cataddon-core.php:46
+msgid "Product successfully imported!"
+msgstr "Продукт успешно импортирован!"
+
+#: centedi-cataddon-core.php:46
+msgid "Product successfully updated!"
+msgstr "Продукт успешно обновлён!"
+
+#: centedi-cataddon-core.php:51
+msgid "Invalid data or API key. Please contact CentEDI support."
+msgstr "Неверные данные или API ключ. Пожалуйста, свяжитесь с техподдержкой."
+
+#: centedi-cataddon-core.php:62
+msgid "Error creating product: "
+msgstr "Ошибка создания продукта: "
+
+#: centedi-cataddon-core.php:63
+msgid "Error creating attribute sets: "
+msgstr "Ошибка создания набора аттрибутов: "
+
+#: centedi-cataddon-core.php:64
+msgid "Error creating category: "
+msgstr "Ошибка создания категории: "
+
+#: centedi-cataddon-main.php:302 centedi-cataddon-main.php:318
+msgid "Something went wrong"
+msgstr "Неизвестная ошибка"
+
+#: centedi-cataddon-main.php:394
+msgid "You have an error in your data, please check fields!"
+msgstr "Данные содержат ошибку, проверьте правильность ввода!"
+
+#: centedi-cataddon-main.php:464 centedi-cataddon-main.php:467
+#: centedi-cataddon-main.php:513 centedi-cataddon-main.php:516
+#: centedi-cataddon-main.php:519
+msgid "Invalid product data"
+msgstr "Неверные данные продукта"
+
+#: centedi-cataddon-main.php:495
+msgid "Invalid update data"
+msgstr "Неверные данные для обновления"
+
+#: centedi-cataddon-main.php:555 centedi-cataddon-main.php:556
+#: centedi-cataddon-main.php:659 centedi-cataddon-main.php:661
+msgid "Brand"
+msgstr "Брэнд"
+
+#: centedi-cataddon-main.php:557
+msgid "Search"
+msgstr "Поиск"
+
+#: centedi-cataddon-main.php:558
+msgid "All Brands"
+msgstr "Все брэнды"
+
+#: centedi-cataddon-main.php:559
+msgid "View"
+msgstr "Просмотр"
+
+#: centedi-cataddon-main.php:560
+msgid "Parent"
+msgstr "Родитель"
+
+#: centedi-cataddon-main.php:561
+msgid "Parent:"
+msgstr "Родитель:"
+
+#: centedi-cataddon-main.php:562
+msgid "Edit"
+msgstr "Редактировать"
+
+#: centedi-cataddon-main.php:563
+msgid "Update"
+msgstr "Обновить"
+
+#: centedi-cataddon-main.php:564
+msgid "Add new brand"
+msgstr "Добавить брэнд"
+
+#: centedi-cataddon-main.php:565
+msgid "New Brand Name"
+msgstr "Название"
+
+#: centedi-cataddon-main.php:566 centedi-cataddon-settings.php:25
+#: centedi-cataddon-settings.php:106 centedi-cataddon-widget.php:84
+#: centedi-cataddon-widget.php:113
+msgid "Brands"
+msgstr "Брэнды"
+
+#: centedi-cataddon-main.php:567
+msgid "No brands found"
+msgstr "Брэнды не найдены"
+
+#: centedi-cataddon-main.php:594
+msgid "Brands container"
+msgstr "Контейнер виджета брэндов"
+
+#: centedi-cataddon-main.php:596
+msgid "CentEDI brands slider container"
+msgstr "Контейнер слайдера брэндов"
+
+#. Author of the plugin/theme
+#: centedi-cataddon-main.php:630
+msgid "CentEDI"
+msgstr ""
+
+#: centedi-cataddon-main.php:649
+msgid "CentEDI Actions"
+msgstr "Меню CentEDI"
+
+#: centedi-cataddon-main.php:650
+msgid "Import product..."
+msgstr "Импортировать продукт"
+
+#: centedi-cataddon-main.php:651
+msgid "Search for updates"
+msgstr "Проверить изменения"
+
+#: centedi-cataddon-main.php:657
+msgid ""
+"We have no such product. Please input brand for this product in order to "
+"help us to find the required information:"
+msgstr ""
+"Продукт не существует в нашей базе. Пожалуйста, введите брэнд продукта, "
+"чтобы помочь нам найти необходимую информацию:"
+
+#: centedi-cataddon-main.php:659 centedi-cataddon-main.php:661
+msgid "(not required)"
+msgstr "(по желанию)"
+
+#: centedi-cataddon-main.php:668
+msgid ""
+"Yes I would like to receive the notification on my store admin email when "
+"product is ready for import"
+msgstr ""
+"Я бы хотел получить уведомление на почтовый адрес администратора магазина, "
+"когда продукт будет готов к импорту"
+
+#: centedi-cataddon-main.php:703 centedi-cataddon-main.php:751
+msgid "Model"
+msgstr "Модель"
+
+#: centedi-cataddon-main.php:780
+msgid "Weight"
+msgstr "Вес"
+
+#: centedi-cataddon-main.php:786
+msgid "Dimensions"
+msgstr "Габариты"
+
+#: centedi-cataddon-main.php:820
+msgid "Product attachments"
+msgstr "Приложения"
+
+#: centedi-cataddon-main.php:835
+msgid "Type"
+msgstr "Тип"
+
+#: centedi-cataddon-main.php:836
+msgid "Attachment"
+msgstr "Приложение"
+
+#: centedi-cataddon-main.php:852
+msgid "Nothing found"
+msgstr "Ничего не найдено"
+
+#: centedi-cataddon-main.php:861 centedi-cataddon-main.php:887
+#: centedi-cataddon-main.php:923
+msgid "Logo"
+msgstr "Логотип"
+
+#: centedi-cataddon-main.php:863 centedi-cataddon-main.php:867
+#: centedi-cataddon-main.php:868 centedi-cataddon-main.php:891
+#: centedi-cataddon-main.php:895 centedi-cataddon-main.php:896
+msgid "Add logo..."
+msgstr "Добавить..."
+
+#: centedi-cataddon-main.php:869 centedi-cataddon-main.php:870
+#: centedi-cataddon-main.php:897 centedi-cataddon-main.php:898
+msgid "Remove logo"
+msgstr "Удалить"
+
+#: centedi-cataddon-main.php:873 centedi-cataddon-main.php:901
+msgid "Add or remove brand logo."
+msgstr "Изменить логотип бренда"
+
+#: centedi-cataddon-main.php:924
+msgid "Visible"
+msgstr "Видимость"
+
+#: centedi-cataddon-main.php:952
+msgid "Settings"
+msgstr "Настройки"
+
+#: centedi-cataddon-product-utils.php:73
+msgid "Attribute ["
+msgstr ""
+
+#: centedi-cataddon-product-utils.php:311 centedi-cataddon-widget.php:177
+msgid "Yes"
+msgstr "Да"
+
+#: centedi-cataddon-product-utils.php:311 centedi-cataddon-widget.php:181
+msgid "No"
+msgstr "Нет"
+
+#: centedi-cataddon-product-utils.php:367
+msgid "Error saving product images"
+msgstr "Ошибка сохранения картинок продукта"
+
+#: centedi-cataddon-product-utils.php:388
+msgid "Error saving product attachments"
+msgstr "Ошибка сохранения приложений продукта"
+
+#: centedi-cataddon-product-utils.php:480
+msgid "Error creating brand"
+msgstr "Ошибка создания брэнда: "
+
+#: centedi-cataddon-product-utils.php:520
+msgid "Error saving variation images"
+msgstr "Ошибка сохранения картинок вариации"
+
+#: centedi-cataddon-product-utils.php:542
+msgid "Error writing product data to database"
+msgstr "Ошибка записи данных продукта"
+
+#: centedi-cataddon-product-utils.php:548
+msgid "Product created"
+msgstr "Продукт создан!"
+
+#: centedi-cataddon-product-utils.php:1066
+#: centedi-cataddon-product-utils.php:1069
+#: centedi-cataddon-product-utils.php:1071
+msgid "Error uploading image: "
+msgstr "Ошибка загрузки изображения"
+
+#: centedi-cataddon-register.php:13 centedi-cataddon-settings.php:23
+msgid "Registration"
+msgstr "Зарегистрироваться"
+
+#: centedi-cataddon-register.php:18
+msgid "Organization"
+msgstr "Организация"
+
+#: centedi-cataddon-register.php:22
+msgid "Email"
+msgstr ""
+
+#: centedi-cataddon-register.php:26
+msgid "Country"
+msgstr "Страна"
+
+#: centedi-cataddon-register.php:30
+msgid "URL"
+msgstr ""
+
+#: centedi-cataddon-register.php:45 centedi-cataddon-register.php:47
+msgid "Password"
+msgstr "Пароль"
+
+#: centedi-cataddon-register.php:53 centedi-cataddon-register.php:55
+msgid "Retype password"
+msgstr "Пароль повторно"
+
+#: centedi-cataddon-settings.php:13
+msgid "CentEDI Settings"
+msgstr "Настройки CentEDI"
+
+#: centedi-cataddon-settings.php:24 centedi-cataddon-settings.php:63
+msgid "Filters"
+msgstr "Фильтры"
+
+#: centedi-cataddon-settings.php:69
+msgid "Show filters"
+msgstr "Показать фильтры"
+
+#: centedi-cataddon-settings.php:83
+msgid "Show filterable attributes only"
+msgstr "Показывать только фильтруемые аттрибуты"
+
+#: centedi-cataddon-settings.php:90
+msgid "Manually choose attributes to filter"
+msgstr "Установить видимость аттрибутов вручную"
+
+#: centedi-cataddon-settings.php:112
+msgid "Show brands slider"
+msgstr "Отображать слайдер брэндов"
+
+#: centedi-cataddon-settings.php:167
+msgid "Attribute"
+msgstr "Аттрибут"
+
+#: centedi-cataddon-settings.php:168
+msgid "Filterable"
+msgstr "Фильтруемый"
+
+#: centedi-cataddon-utils.php:68
+msgid "Register"
+msgstr "Зарегистрироваться"
+
+#: centedi-cataddon-widget.php:14 centedi-cataddon-widget.php:16
+msgid "CentEDI Filters"
+msgstr "Фильтры CentEDI"
+
+#: centedi-cataddon-widget.php:56 centedi-cataddon-widget.php:198
+msgid "Filter"
+msgstr "Фильтровать"
+
+#: centedi-cataddon-widget.php:57 centedi-cataddon-widget.php:199
+msgid "Reset"
+msgstr "Сбросить"
+
+#: centedi-cataddon-widget.php:185
+msgid "All"
+msgstr "Всё"
+
+#: centedi-cataddon-widget.php:223
+msgid "Filter title"
+msgstr "Название"
+
+#. Plugin Name of the plugin/theme
+msgid "CentEDI Catalog Extension"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://centedi.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"CentEDI Catalog Extension creates and fills in the products and images for "
+"you. Simply find the product by barcode or any part of product and press "
+"import and the product will be created & filled in on your WooCommerce store."
+msgstr ""
+
+#~ msgid "CentEDI Registration Page"
+#~ msgstr "Зарегистрироваться в CentEDI"
